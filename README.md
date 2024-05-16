@@ -41,10 +41,4 @@ This Python script generates samples from a scaled Gaussian distribution within 
 - Ensure you have the necessary permissions to install Python packages and run scripts on your system.
 - Adjust the script as needed for specific use cases or requirements.
 
-## Team-members
 
-- Apoorv Tandon (220192)
-- Daksh Kumar Singh (220322)
-- Himanshu Shekhar (220454)
-- Swayamsidh Pradhan (221117)
-- Tanishq Maheshwari (221128)
